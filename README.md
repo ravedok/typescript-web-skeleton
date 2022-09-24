@@ -1,5 +1,25 @@
 # typescript-web-skeleton
 
+## Install project
+```bash
+    git clone git@github.com:ravedok/typescript-web-skeleton.git
+    cd typescript-web-skeleton
+    npm i
+```
+
+### Run dev mode
+
+```bash
+    npm run dev
+```
+
+### Run test
+
+```bash
+    npm test
+```
+
+
 
 ## Install Jest
 
